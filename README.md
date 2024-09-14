@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Seansyx123
-- 👀 I’m interested in risk management.
-- 🌱 I’m currently learning machine learning in finance.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in explainable machine learning.
+- 🌱 I’m currently learning machine learning for software.
+- 💞️ I’m looking to collaborate on AI researcher.
+- 📫 Reach me at shangyuxiang@hiroshima-u.ac.jp
 
 <!---
 Seansyx123/Seansyx123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
